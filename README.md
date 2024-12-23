@@ -1,4 +1,4 @@
-# React Calculator
+# React Responsive Calculator
 
 A simple and responsive calculator built using React.js. This calculator allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. It's designed to be lightweight, user-friendly, and mobile-responsive.
 
